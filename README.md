@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## Skills
+### Platforms & Languages
+
+
+### Tools
+
+
+
 <!--
 **meena2003/meena2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
