@@ -1,10 +1,10 @@
-## Hi there 👋
 
-## Skills
-### Platforms & Languages
+<span style="font-size: 20px;">Skill</span>
+
+### Languages
+<img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logoColor=blue"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=fflat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/QueryDSL-4479A1?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
 
 
-### Tools
 
 
 
