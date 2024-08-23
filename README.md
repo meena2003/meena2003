@@ -1,24 +1,21 @@
+안녕하세요 😄
 
-<span style="font-size: 20px;">Skill</span>
-
-### Languages
-<img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logoColor=blue"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=fflat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/QueryDSL-4479A1?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+느릴지라도 제대로 걸어나가고자 노력하는 백엔드 개발자입니다 ✨
 
 
+## Skill
+
+### 💬 Platforms & Languages
+<img src="https://img.shields.io/badge/java-3B66BC?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/QueryDSL-4479A1?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> 
+
+### 🔧 Tools
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Intellij IDEA-892CA0?style=flat&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-231F20?style=flat&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
+
+### 🏆 Certificates
+<img src="https://img.shields.io/badge/정보처리기사-00465B??style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/SQLD-00465B?style=flat-square&logoColor=white">
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meena2003)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**meena2003/meena2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meena2003&show_icons=true&theme=radical)
