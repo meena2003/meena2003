@@ -16,6 +16,4 @@
 <img src="https://img.shields.io/badge/정보처리기사-00465B??style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/SQLD-00465B?style=flat-square&logoColor=white">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meena2003)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meena2003&show_icons=true&theme=radical)
