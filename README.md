@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Notion-231F20?style=flat&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
 
 ### 🏆 Certificates
-<img src="https://img.shields.io/badge/정보처리기사-00465B??style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/SQLD-00465B?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/정보처리기사-C70D2C??style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/SQLD-C70D2C?style=flat-square&logoColor=white">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meena2003&show_icons=true&theme=radical)
